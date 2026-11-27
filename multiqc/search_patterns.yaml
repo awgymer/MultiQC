@@ -537,6 +537,9 @@ gtdbtk:
 haplocheck:
   contents: '"Sample"	"Contamination Status"	"Contamination Level"	"Distance"	"Sample Coverage"'
   num_lines: 10
+haplogrep3:
+  contents: '"SampleID"	"Haplogroup"	"Rank"	"Quality"'
+  num_lines: 1
 happy:
   fn: "*.summary.csv"
   contents: "Type,Filter,TRUTH"

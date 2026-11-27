@@ -484,6 +484,7 @@ module_order:
   - peddy
   - percolator
   - haplocheck
+  - haplogrep3
   - somalier
   - methylqa
   - mosdepth
